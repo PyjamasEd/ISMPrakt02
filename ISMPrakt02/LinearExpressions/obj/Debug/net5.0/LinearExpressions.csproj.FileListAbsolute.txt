@@ -1,0 +1,16 @@
+F:\ISM2\ISMPrakt02\LinearExpressions\bin\Debug\net5.0\LinearExpressions.exe
+F:\ISM2\ISMPrakt02\LinearExpressions\bin\Debug\net5.0\LinearExpressions.deps.json
+F:\ISM2\ISMPrakt02\LinearExpressions\bin\Debug\net5.0\LinearExpressions.runtimeconfig.json
+F:\ISM2\ISMPrakt02\LinearExpressions\bin\Debug\net5.0\LinearExpressions.runtimeconfig.dev.json
+F:\ISM2\ISMPrakt02\LinearExpressions\bin\Debug\net5.0\LinearExpressions.dll
+F:\ISM2\ISMPrakt02\LinearExpressions\bin\Debug\net5.0\ref\LinearExpressions.dll
+F:\ISM2\ISMPrakt02\LinearExpressions\bin\Debug\net5.0\LinearExpressions.pdb
+F:\ISM2\ISMPrakt02\LinearExpressions\obj\Debug\net5.0\LinearExpressions.csproj.AssemblyReference.cache
+F:\ISM2\ISMPrakt02\LinearExpressions\obj\Debug\net5.0\LinearExpressions.GeneratedMSBuildEditorConfig.editorconfig
+F:\ISM2\ISMPrakt02\LinearExpressions\obj\Debug\net5.0\LinearExpressions.AssemblyInfoInputs.cache
+F:\ISM2\ISMPrakt02\LinearExpressions\obj\Debug\net5.0\LinearExpressions.AssemblyInfo.cs
+F:\ISM2\ISMPrakt02\LinearExpressions\obj\Debug\net5.0\LinearExpressions.csproj.CoreCompileInputs.cache
+F:\ISM2\ISMPrakt02\LinearExpressions\obj\Debug\net5.0\LinearExpressions.dll
+F:\ISM2\ISMPrakt02\LinearExpressions\obj\Debug\net5.0\ref\LinearExpressions.dll
+F:\ISM2\ISMPrakt02\LinearExpressions\obj\Debug\net5.0\LinearExpressions.pdb
+F:\ISM2\ISMPrakt02\LinearExpressions\obj\Debug\net5.0\LinearExpressions.genruntimeconfig.cache
